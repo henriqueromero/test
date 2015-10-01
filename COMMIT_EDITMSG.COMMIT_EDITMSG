@@ -1,0 +1,14 @@
+test
+
+# --------------
+# Please enter the commit message for your changes. Everything below
+# this paragraph is ignored, and an empty message aborts the commit.
+# Just close the window to accept your message.
+diff --git a/test.do b/test.do
+new file mode 100644
+index 0000000..30d74d2
+--- /dev/null
++++ b/test.do
+@@ -0,0 +1 @@
++test
+\ No newline at end of file
